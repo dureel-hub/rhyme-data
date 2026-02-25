@@ -6,7 +6,7 @@
   "duel": ["D", "UW1", "L"],
   "peanut": ["P", "IY1", "N", "AH2", "T"],
   "peanuts": ["P", "IY1", "N", "AH2", "T", "S"],
-  "hello": ["HH", "EH0", "L", "OW1"],
+  "hello": ["HH", "EH2", "L", "OW1"],
   "ratatouille": ["R", "AE2", "T", "AH0", "T", "UW1", "IY0"],
   "africa": ["AE1", "F", "R", "IH0", "K", "AH0"],
   "violin": ["V", "AY2", "AH0", "L", "IH1", "N"],
@@ -23,7 +23,7 @@
   "friday": ["F", "R", "AY1", "D", "EY0"],
   "saturday": ["S", "AE1", "T", "ER0", "D", "EY0"],
   "souffle": ["S", "UW2", "F", "L", "EY1"],
-  "mic": ["M", "IY1", "K"],
+  "mic": ["M", "AY1", "K"],
   "always": ["OW1", "L", "W", "IY0", "Z"],
   "ya": ["Y", "AH0"]
 }

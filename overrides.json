@@ -1,0 +1,29 @@
+{
+  "piranha": ["P", "ER0", "AA1", "N", "AH0"]
+  "midi": ["M", "IH1", "D", "IY0"],
+  "fuel": ["F", "Y", "UW1", "L"],
+  "dual": ["D", "UW1", "L"],
+  "duel": ["D", "UW1", "L"],
+  "peanut": ["P", "IY1", "N", "AH2", "T"],
+  "peanuts": ["P", "IY1", "N", "AH2", "T"],
+  "hello": ["HH", "EH0", "L", "OW1"],
+  "ratatouille": ["R", "AE2", "T", "AH0", "T", "UW1", "IY0"],
+  "africa": ["AE1", "F", "R", "IH0", "K", "AH0"],
+  "violin": ["V", "AY2", "AH0", "L", "IH1", "N"],
+  "israel": ["IH1", "Z", "R", "IY0", "L"],
+  "libido": ["L", "AH0", "B", "IY1", "D", "OW2"],
+  "versace": ["V", "ER0", "S", "AA1", "CH", "IY0"],
+  "khaki": ["K", "AE1", "K", "IY0"],
+  "was": ["W", "AH0", "Z"],
+  "withdrawal": ["W", "IH0", "DH", "D", "R", "AO1", "L"],
+  "boombox": ["B", "UW1", "M", "B", "AA2", "K", "S"],
+  "monday": ["M", "AH1", "N", "D", "EY0"],
+  "tuesday": ["T", "UW1", "Z", "D", "IYE"],
+  "wednesday": ["W", "EH1", "N", "Z", "D", "EY0"],
+  "friday": ["F", "R", "AY1", "D", "EY0"],
+  "saturday": ["S", "AE1", "T", "ER0", "D", "EY0"],
+  "souffle": ["S", "UW2", "F", "L", "EY1"],
+  "mic": ["M", "IY1", "K"],
+  "always": ["OW1", "L", "W", "IY0", "Z"]
+  "ya": ["Y", "AH0"]
+}

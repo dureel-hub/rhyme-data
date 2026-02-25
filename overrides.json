@@ -1,11 +1,11 @@
 {
-  "piranha": ["P", "ER0", "AA1", "N", "AH0"]
+  "piranha": ["P", "ER0", "AA1", "N", "AH0"],
   "midi": ["M", "IH1", "D", "IY0"],
   "fuel": ["F", "Y", "UW1", "L"],
   "dual": ["D", "UW1", "L"],
   "duel": ["D", "UW1", "L"],
   "peanut": ["P", "IY1", "N", "AH2", "T"],
-  "peanuts": ["P", "IY1", "N", "AH2", "T"],
+  "peanuts": ["P", "IY1", "N", "AH2", "T" "S"],
   "hello": ["HH", "EH0", "L", "OW1"],
   "ratatouille": ["R", "AE2", "T", "AH0", "T", "UW1", "IY0"],
   "africa": ["AE1", "F", "R", "IH0", "K", "AH0"],
@@ -24,6 +24,6 @@
   "saturday": ["S", "AE1", "T", "ER0", "D", "EY0"],
   "souffle": ["S", "UW2", "F", "L", "EY1"],
   "mic": ["M", "IY1", "K"],
-  "always": ["OW1", "L", "W", "IY0", "Z"]
+  "always": ["OW1", "L", "W", "IY0", "Z"],
   "ya": ["Y", "AH0"]
 }
